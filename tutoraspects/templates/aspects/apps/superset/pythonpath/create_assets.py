@@ -29,6 +29,8 @@ from superset.models.embedded_dashboard import EmbeddedDashboard
 from superset.models.slice import Slice
 from superset.tags.models import ObjectType, TagType, get_tag
 
+import superset_config
+
 logger = logging.getLogger("create_assets")
 # Supress output from black (sqlfmt) formatting
 blib2to3_logger = logging.getLogger("blib2to3.pgen2.driver")
