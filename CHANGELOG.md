@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## viadanna/ulmo - 2026-10-02
+
+* Update platform-plugin-aspects to [release/ulmo.1.1](https://github.com/openedx/platform-plugin-aspects/commit/941b9e2aa94e3d8557ca0ff8acb0820a66efa674)
+
 ## v3.0.3 - 2026-02-12
 
 ### v3.0.3 (2026-02-12)
